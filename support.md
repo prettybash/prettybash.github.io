@@ -49,23 +49,23 @@ If your issue isn't getting attention:
 
 - 📚 Official Documentation: [Our Documentation][document]
 
-- 🎬 Tutorials & Guides: [Our Tutorials Page][youtube]
+<!-- - 🎬 Tutorials & Guides: [Our Tutorials Page][youtube] -->
 
-- 📖 API Reference: [API Documents][api_document]
+<!-- - 📖 API Reference: [API Documents][api_document] -->
 
 # 📚 Learning Materials
 
-- 🎥 Video Tutorials: [YouTube Channel][youtube]
+<!-- - 🎥 Video Tutorials: [YouTube Channel][youtube] -->
 
 - 💡 Examples & Demos: [Examples][document]
 
 - 🚀 Getting Started Guide: [Quickstart][document]
 
-[document]: https://iamprogrammer.lk
-[community]: https://reddit.com/r/iamprogrammerlk
+[document]: https://prettybash.github.io
+[community]: https://reddit.com/r/prettybash
 [issues]: /../../issues
 [contributors]: /../../graphs/contributors
-[support_email]: mailto:support@iamprogrammer.lk
+[support_email]: mailto:prettybash@workspace.lk
 [youtube]: https://youtube.com/iamprogrammerlk
-[api_document]: https://iamprogrammer.lk
+[api_document]: https://prettybash.github.io
 
