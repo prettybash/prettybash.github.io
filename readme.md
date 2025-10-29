@@ -14,11 +14,13 @@
 
 A collection of scripts designed to enhance the visual appeal of your upcoming Bash script project.
 
+
 > [!TIP]
 >
 > ## ⭐ Star This Repository
 >
 > If you enjoy this project and my work, please consider supporting me giving a ⭐ star ⭐ to this repository.
+
 
 <br><p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
 
@@ -77,7 +79,8 @@ Please read the [support.md][support] and [governance.md][governance] for more d
 > Please do not report security vulnerabilities through public **Community Forum**, **GitHub Issues**,
 > **Discussions**, or **Pull Requests**. Instead, use [`SECURITY ADVISORIES`][security_advisories]
 
-<br><p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
+<br>
+<p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
 
 ---
 
@@ -92,7 +95,8 @@ and be bound by the terms of the [Contributor License Agreement][contributor_lic
 > This project is not a platform for discussing politics, social issues, race, religion, gender, or sexual orientation.
 > Please keep those discussions elsewhere.
 
-<br><p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
+<br>
+<p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
 
 ---
 
@@ -124,7 +128,8 @@ See [license][license_md] for more information.
 - ⛔ ~~Trademark use~~
 - 🚫 Warranty
 
-<br><p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
+<br>
+<p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
 
 ---
 
@@ -133,7 +138,8 @@ See [license][license_md] for more information.
 - Copyright © 2025 🇱🇰 I am Programmer [@iamprogrammerlk][iamprogrammer_github].
 - Copyright © 2025 ❤️ [Contributors][contributors].
 
-<br><p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
+<br>
+<p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
 
 ---
 
