@@ -4,15 +4,15 @@
 
 <div align="center" style="text-align: center;">
   <a href="https://iamprogrammer.lk">
-    <img src="https://avatars.githubusercontent.com/u/17584831?v=4" alt="iamprogrammer.lk" width="200">
+    <img src="https://avatars.githubusercontent.com/u/240835535?s=200&v=4" alt="Pretty Bash" width="200">
   </a>
 </div>
 
 <br><br>
 
-# {{PROJECT_TITLE}}
+# Pretty Bash
 
-{{PROJECT_DESCRIPTION}}
+A collection of scripts designed to enhance the visual appeal of your upcoming Bash script project.
 
 > [!TIP]
 >
@@ -140,15 +140,15 @@ See [license][license_md] for more information.
 [iamprogrammer_github]: https://github.com/iamprogrammerlk
 [iamprogrammer_url]: https://iamprogrammer.lk
 [iamprogrammer_email]: mailto:contact@iamprogrammer.lk
-[contributors]: /../../graphs/contributors
-[community]: https://reddit.com/r/iamprogrammerlk
-[contributing]: /contributing.md
-[governance]: /governance.md
-[support]: /support.md
-[issues]: /../../issues
-[code_of_conduct]: /code_of_conduct.md
-[security]: /security.md
-[contributor_license_agreement]: /contributor_license_agreement.md
+[contributors]: https://github.com/prettybash/prettybash/graphs/contributors
+[community]: https://reddit.com/r/prettybash
+[contributing]: https://github.com/prettybash/prettybash/blob/main/contributing.md
+[governance]: https://github.com/prettybash/prettybash/blob/main/governance.md
+[support]: https://github.com/prettybash/prettybash/blob/main/support.md
+[issues]: https://github.com/prettybash/prettybash/issues
+[code_of_conduct]: https://github.com/prettybash/prettybash/blob/main/code_of_conduct.md
+[security]: https://github.com/prettybash/prettybash/blob/main/security.md
+[contributor_license_agreement]: https://github.com/prettybash/prettybash/blob/main/contributor_license_agreement.md
 [license]: https://choosealicense.com/licenses/wtfpl/
-[license_md]: /license.md
-[security_advisories]: /../../security/advisories/new
+[license_md]: https://github.com/prettybash/prettybash/blob/main/license.md
+[security_advisories]: https://github.com/prettybash/prettybash/security/advisories/new
