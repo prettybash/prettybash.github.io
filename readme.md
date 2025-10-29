@@ -16,9 +16,13 @@
 
 A collection of scripts designed to enhance the visual appeal of your upcoming Bash script project.
 
+
+> [!TIP]
+>
 > ## ⭐ Star This Repository
 >
 > If you enjoy this project and my work, please consider supporting me giving a ⭐ star ⭐ to this repository.
+
 
 <br>
 <p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
