@@ -1,6 +1,7 @@
 <a name="readme-top"></a>
 
-<br><br>
+<br>
+<br>
 
 <div align="center" style="text-align: center;">
   <a href="https://iamprogrammer.lk">
@@ -8,21 +9,19 @@
   </a>
 </div>
 
-<br><br>
+<br>
+<br>
 
 # Pretty Bash
 
 A collection of scripts designed to enhance the visual appeal of your upcoming Bash script project.
 
-
-> [!TIP]
->
 > ## ⭐ Star This Repository
 >
 > If you enjoy this project and my work, please consider supporting me giving a ⭐ star ⭐ to this repository.
 
-
-<br><p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
+<br>
+<p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
 
 ---
 
@@ -35,7 +34,8 @@ A collection of scripts designed to enhance the visual appeal of your upcoming B
 
 - [Contributors][contributors]
 
-<br><p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
+<br>
+<p align="right">(<a href="#readme-top">👆 back to top 👆</a>)</p>
 
 ---
 
