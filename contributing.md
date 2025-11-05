@@ -129,7 +129,7 @@ out of the new terms, please contact any member of the leadership team.
 You can view our list of [Contributors][contributors].
 
 [issues]: /../../issues
-[community]: https://reddit.com/r/{{GITHUB_USERNAME}}
+[community]: https://reddit.com/r/iamprogrammerlk
 [license]: /license.md
 [changelog]: /changelog.md
 [contributor_license_agreement]: /contributor_license_agreement.md

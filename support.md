@@ -61,10 +61,10 @@ If your issue isn't getting attention:
 
 - 🚀 Getting Started Guide: [Quickstart][documentation]
 
-[documentation]: https://{{DOCUMENTATION_URL}}
-[api_documentation]: https://{{DOCUMENTATION_URL}}
-[community]: https://reddit.com/r/{{GITHUB_USERNAME}}
+[documentation]: https://prettybash.github.io/docs
+[api_documentation]: https://prettybash.github.io/docs
+[community]: https://reddit.com/r/iamprogrammerlk
 [issues]: /../../issues
 [contributors]: /../../graphs/contributors
-[support_email]: mailto:{{SUPPORT_EMAIL}}
-[youtube]: https://youtube.com/{{GITHUB_USERNAME}}
+[support_email]: mailto:support@iamprogrammer.lk
+[youtube]: https://youtube.com/iamprogrammerlk
