@@ -4,17 +4,17 @@
 <br>
 
 <div align="center" style="text-align: center;">
-  <a href="https://{{PROJECT_URL}}">
-    <img src="https://{{PROFILE_IMAGE_URL}}" alt="{{PROJECT_URL}}" width="200">
+  <a href="https://prettybash.github.io">
+    <img src="https://avatars.githubusercontent.com/u/240835535?s=200&v=4" alt="Pretty Bash" width="200">
   </a>
 </div>
 
 <br>
 <br>
 
-# {{PROJECT_TITLE}}
+# Pretty Bash
 
-{{PROJECT_DESCRIPTION}}
+A collection of scripts designed to enhance the visual appeal of your upcoming Bash script project
 
 <br>
 <br>
@@ -80,6 +80,21 @@ Please read the [support.md][support] and [governance.md][governance] for more d
 >
 > Please do not report security vulnerabilities through public **Community Forum**, **GitHub Issues**,
 > **Discussions**, or **Pull Requests**. Instead, use [`SECURITY ADVISORIES`][security_advisories]
+
+<br>
+<br>
+
+<p align="right">(<a href="#page_top">👆 BACK TO TOP 👆</a>)</p>
+
+---
+
+# 📝 Documentation
+
+- 📚 Official Documentation: [Our Documentation][documentation]
+
+- 🎬 Tutorials & Guides: [Our Tutorials Page][youtube]
+
+- 📖 API Reference: [API Documents][api_documentation]
 
 <br>
 <br>
@@ -156,15 +171,18 @@ See [license][license_md] for more information.
 [iamprogrammer_github]: https://github.com/iamprogrammerlk
 [iamprogrammer_url]: https://iamprogrammer.lk
 [iamprogrammer_email]: mailto:contact@iamprogrammer.lk
-[contributors]: /../../graphs/contributors
-[community]: https://reddit.com/r/{{GITHUB_USERNAME}}
-[contributing]: /contributing.md
-[governance]: /governance.md
-[support]: /support.md
-[issues]: /../../issues
-[code_of_conduct]: /code_of_conduct.md
-[security]: /security.md
-[contributor_license_agreement]: /contributor_license_agreement.md
+[contributors]: https://github.com/prettybash/prettybash/graphs/contributors
+[community]: https://reddit.com/r/iamprogrammerlk
+[contributing]: https://github.com/prettybash/prettybash/blob/main/contributing.md
+[governance]: https://github.com/prettybash/prettybash/blob/main/governance.md
+[support]: https://github.com/prettybash/prettybash/blob/main/support.md
+[issues]: https://github.com/prettybash/prettybash/issues
+[code_of_conduct]: https://github.com/prettybash/prettybash/blob/main/code_of_conduct.md
+[security]: https://github.com/prettybash/prettybash/blob/main/security.md
+[contributor_license_agreement]: https://github.com/prettybash/prettybash/blob/main/contributor_license_agreement.md
 [license]: https://creativecommons.org/licenses/by/4.0/
-[license_md]: /license.md
-[security_advisories]: /../../security/advisories/new
+[license_md]: https://github.com/prettybash/prettybash/blob/main/license.md
+[security_advisories]: https://github.com/prettybash/prettybash/security/advisories/new
+[youtube]: https://youtube.com/@iamprogrammerlk
+[documentation]: https://prettybash.github.io/docs
+[api_documentation]: https://prettybash.github.io/docs
