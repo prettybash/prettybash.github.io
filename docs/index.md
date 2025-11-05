@@ -1,188 +1,183 @@
-<a name="page_top"></a>
-
 <br>
 <br>
 
 <div align="center" style="text-align: center;">
+
   <a href="https://prettybash.github.io">
     <img src="https://avatars.githubusercontent.com/u/240835535?s=200&v=4" alt="Pretty Bash" width="200">
   </a>
+
+<br>
+<br>
+
+  <!-- <h1><i>{{ORGANIZATION_TAGLINE}}</i></h1>
+
+  <br> -->
+
+  <h2>
+    <a href="https://prettybash.github.io">🏠 Home</a>
+    <a href="https://prettybash.github.io/docs">📚 Read the Docs</a>
+    <a href="https://github.com/sponsors/iamprogrammerlk">🫅 Be a Sponsor</a>
+    <a href="https://iamprogrammer.lk/support">🛟 Get Support</a>
+    <a href="https://iamprogrammer.lk/contact">☎️ Contact Us</a>
+    <a href="https://reddit.com/r/iamprogrammerlk">♥️ Join the Community</a>
+  </h2>
+
 </div>
 
 <br>
 <br>
 
-# Pretty Bash
+# 🚀 Pretty Bash
 
-A collection of scripts designed to enhance the visual appeal of your upcoming Bash script project
+A collection of scripts designed to enhance the visual appeal of your upcoming Bash script project.
+
+<!-- <br>
+<br>
+
+# 🌟 About Us
+
+Pretty Bash is {{DESCRIBE_WHAT_YOUR_ORGANIZATION_DOES}}.
+
+- ## Our Mission:
+
+  {{YOUR_ORGANIZATIONS_MISSION_STATEMENT}}
+
+- ## Our Vision:
+
+  {{YOUR_ORGANIZATIONS__VISION_STATEMENT}} -->
+
+<!-- <br>
+<br>
+
+# 🛠️ What We Do
+
+- ## 🔧 Product Development:
+
+  {{BRIEF_DESCRIPTION_OF_YOUR_MAIN_PRODUCTS/SERVICES}}
+
+- ## 🌍 Open Source Contributions:
+
+  {{MENTION_YOUR_OSS_PHILOSOPHY}}
+
+- ## 💡 Innovation:
+
+  {{AREAS_OF_INNOVATION_OR_RESEARCH}}
+
+- ## 🤝 Community:
+
+  {{COMMUNITY_INITIATIVES_OR_SUPPORT}} -->
+
+<!-- <br>
+<br>
+
+# 🛠️ Technology Stack
+
+## Frontend
+
+- ### {{SAMPLE_FRONTEND}}
+
+## Backend
+
+- ### {{SAMPLE_BACKEND}}
+
+## Infrastructure
+
+- ### {{SAMPLE_INFRASTRUCTURE}} -->
 
 <br>
 <br>
 
-<p align="right">(<a href="#page_top">👆 BACK TO TOP 👆</a>)</p>
+# 🤝 How to Contribute
 
----
+We love contributions! Here's how you can help:
 
-# 💕 Credits
+- ### 🐞 **Report Bugs:** Found a bug? [Open an issue][issues]
 
-- I am Programmer [@iamprogrammerlk][iamprogrammer_github]
+- ### 🧠 **Suggest Features:** Have an idea? [Share it with us][issues]
 
-  - 🌐 [iamprogrammer.lk][iamprogrammer_url]
-  - ✉️ [contact@iamprogrammer.lk][iamprogrammer_email]
+- ### 🧬 **Submit Pull Requests:** Check our [contributing guidelines][contributing]
 
-- [Contributors][contributors]
+- ### 📃 **Improve Documentation:** Help us make our [documents][documentation_repository] better
 
-<br>
-<br>
-
-<p align="right">(<a href="#page_top">👆 BACK TO TOP 👆</a>)</p>
-
----
-
-# ✨ Get Involved
-
-[Contributors][contributors] are what make the open source community such an amazing place to learn, inspire,
-and create. Any contributions you make are greatly appreciated.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request.
-You can also simply open an issue with the tag "enhancement". Don't forget to give the project a star! Thanks again!
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing_feature`)
-3. Make your changes with clear commit messages (`git commit -m "Add some amazing feature"`)
-4. Push to the Branch (`git push origin feature/amazing_feature`)
-5. Submit a pull request with description of changes
-
-Read more about,
-
-- [Contributing][contributing]
-- [Governance][governance]
-- [Contributor License Agreement][contributor_license_agreement]
-- [Code of Conduct][code_of_conduct]
-- [Security Policy][security]
-- [Support][support]
-
-Get in touch with the project developers and the community through our [Reddit.com Community][community] forum.
+- ### 💰 **Financial Support:** Make a [donation][donation]
 
 <br>
 <br>
-
-<p align="right">(<a href="#page_top">👆 BACK TO TOP 👆</a>)</p>
-
----
-
-# 🔥 Issues
-
-Bug reports and feature requests can be submitted on the [Github Issues][issues].
-Please read the [support.md][support] and [governance.md][governance] for more details.
-
-> [!IMPORTANT]
->
-> Please do not report security vulnerabilities through public **Community Forum**, **GitHub Issues**,
-> **Discussions**, or **Pull Requests**. Instead, use [`SECURITY ADVISORIES`][security_advisories]
-
-<br>
-<br>
-
-<p align="right">(<a href="#page_top">👆 BACK TO TOP 👆</a>)</p>
-
----
 
 # 📝 Documentation
 
-- 📚 Official Documentation: [Our Documentation][documentation]
+- ### 📚 Official Documentation: [Our Documentation][documentation]
 
-- 🎬 Tutorials & Guides: [Our Tutorials Page][youtube]
+- ### 🎬 Tutorials & Guides: [Our Tutorials Page][youtube]
 
-- 📖 API Reference: [API Documents][api_documentation]
+- ### 📖 API Reference: [API Documents][api_documentation]
 
 <br>
 <br>
 
-<p align="right">(<a href="#page_top">👆 BACK TO TOP 👆</a>)</p>
+# 📞 Connect With Us
+
+- ### 🌐 Website: [https://prettybash.github.io][website]
+
+- ### 📧 Email: [prettybash@workspace.lk][email]
+
+- ### 🏗️ Github: [prettybash][github]
+
+- ### 📚 Reddit: [r/iamprogrammerlk][reddit]
+
+<!-- - ### 💼 LinkedIn: [company/prettybash][linkedin] -->
+
+<!-- - ### 🐦 X: [prettybash][x] -->
+
+<!-- - ### 📹 YouTube: [@prettybash][youtube] -->
+
+<br>
+<br>
+
+# 🌟 Support Us
+
+If you find our work valuable, consider:
+
+- ### ⭐ Starring our repositories
+
+- ### 🐛 Reporting issues and bugs
+
+- ### 💬 Sharing our projects with others
+
+- ### 🤝 Contributing code or documentation
+
+- ### 💲 Donating to us
+
+<br>
+<br>
+
+# 📜 License
+
+Please check individual repositories for specific licensing information.
+
+<br>
+<br>
 
 ---
 
-# 👍 Code of Conduct
-
-This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to
-the [Code of Conduct][code_of_conduct], [Governance][governance], [Security Policy][security],
-and be bound by the terms of the [Contributor License Agreement][contributor_license_agreement].
-
-> [!IMPORTANT]
->
-> This project is not a platform for discussing politics, social issues, race, religion, gender, or sexual orientation.
-> Please keep those discussions elsewhere.
+_Made in 🇱🇰 with ❤️ by [I am Programmer][lead_maintainer] and [The Pretty Bash Team][contributors]._
 
 <br>
 <br>
 
-<p align="right">(<a href="#page_top">👆 BACK TO TOP 👆</a>)</p>
-
----
-
-# ⚖️ License
-
-This work is distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)][license] License.
-
-See [license][license_md] for more information.
-
-### Permissions
-
-- ✅ Commercial use
-- ✅ Distribution
-- ✅ Modification
-- ⛔ ~~Patent use~~
-- ✅ Private use
-
-### Conditions
-
-- ⛔ ~~Disclose source~~
-- ✅ License and copyright notice
-- ⛔ ~~Network use is distribution~~
-- ⛔ ~~Same license~~
-- ✅ State changes
-
-### Limitations
-
-- 🚫 Liability
-- ⛔ ~~Trademark use~~
-- 🚫 Warranty
-
-<br>
-<br>
-
-<p align="right">(<a href="#page_top">👆 BACK TO TOP 👆</a>)</p>
-
----
-
-# ©️ Copyright
-
-- Copyright © 2025 🇱🇰 I am Programmer [@iamprogrammerlk][iamprogrammer_github].
-- Copyright © 2025 ❤️ [Contributors][contributors].
-
-<br>
-<br>
-
-<p align="right">(<a href="#page_top">👆 BACK TO TOP 👆</a>)</p>
-
----
-
-[iamprogrammer_github]: https://github.com/iamprogrammerlk
-[iamprogrammer_url]: https://iamprogrammer.lk
-[iamprogrammer_email]: mailto:contact@iamprogrammer.lk
-[contributors]: https://github.com/prettybash/prettybash/graphs/contributors
-[community]: https://reddit.com/r/iamprogrammerlk
-[contributing]: https://github.com/prettybash/prettybash/blob/main/contributing.md
-[governance]: https://github.com/prettybash/prettybash/blob/main/governance.md
-[support]: https://github.com/prettybash/prettybash/blob/main/support.md
-[issues]: https://github.com/prettybash/prettybash/issues
-[code_of_conduct]: https://github.com/prettybash/prettybash/blob/main/code_of_conduct.md
-[security]: https://github.com/prettybash/prettybash/blob/main/security.md
-[contributor_license_agreement]: https://github.com/prettybash/prettybash/blob/main/contributor_license_agreement.md
-[license]: https://creativecommons.org/licenses/by/4.0/
-[license_md]: https://github.com/prettybash/prettybash/blob/main/license.md
-[security_advisories]: https://github.com/prettybash/prettybash/security/advisories/new
+[website]: https://prettybash.github.io
+[email]: mailto:prettybash@workspace.lk
+[reddit]: https://reddit.com/r/iamprogrammerlk
+[github]: https://github.com/prettybash
 [youtube]: https://youtube.com/@iamprogrammerlk
+[x]: https://x.com/prettybash
+[linkedin]: https://linkedin.com/company/prettybash
+[issues]: https://github.com/prettybash/prettybash/issues
+[contributing]: https://github.com/prettybash/prettybash/contributing.md
+[contributors]: https://github.com/prettybash/prettybash/graphs/contributors
+[documentation_repository]: https://github.com/prettybash/docs
+[donation]: https://github.com/sponsors/iamprogrammerlk
+[lead_maintainer]: https://github.com/iamprogrammerlk
 [documentation]: https://prettybash.github.io/docs
 [api_documentation]: https://prettybash.github.io/docs
