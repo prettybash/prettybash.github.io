@@ -1,0 +1,34 @@
+title: Pretty Bash
+
+email: prettybash@workspace.lk
+
+description: >- # this means to ignore newlines until "baseurl:"
+  A collection of scripts designed to enhance the visual appeal of your upcoming Bash script project
+
+baseurl: ""
+
+url: "https://prettybash.github.io"
+
+author:
+  name: I am Programmer
+  email: "contact@iamprogrammer.lk"
+
+remote_theme: "jekyll/minima"
+
+minima:
+  skin: dark
+  social_links:
+    - title: GitHub
+      icon: github
+      url: "https://github.com/prettybash"
+    - title: Reddit
+      icon: reddit
+      url: "https://reddit.com/r/iamprogrammerlk"
+    - title: YouTube
+      icon: youtube
+      url: "https://youtube.com/@iamprogrammerlk"
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-remote-theme
