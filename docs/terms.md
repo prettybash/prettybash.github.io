@@ -4,6 +4,6 @@ title: ⚔️ Terms of Service
 permalink: /terms
 ---
 
-> TODO: This page isn't complete
+> NOTE: THIS PAGE IS INCOMPLETE!
 >
-> https://github.com/prettybash/prettybash.github.io/issues/2
+> [ISSUE: #2](https://github.com/prettybash/prettybash.github.io/issues/2)

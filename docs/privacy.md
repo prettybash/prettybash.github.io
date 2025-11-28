@@ -4,6 +4,6 @@ title: 👮 Privacy Policy
 permalink: /privacy
 ---
 
-> TODO: This page isn't complete
+> NOTE: THIS PAGE IS INCOMPLETE!
 >
-> https://github.com/prettybash/prettybash.github.io/issues/1
+> [ISSUE: #1](https://github.com/prettybash/prettybash.github.io/issues/1)
