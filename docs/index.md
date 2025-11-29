@@ -43,17 +43,6 @@ mere functionality to focus on the command line user interface (UI) and user exp
 <br>
 <br>
 
-# ❤️ Thank You
-
-A heartfelt thank you for choosing to include this library in your project. It's developers and creators like you, who
-care about user experience and elegant design, that make the open-source community so amazing. We're thrilled to be a
-small part of your work and can't wait to see what you build!
-
-Please don't hesitate to reach out. Happy coding!
-
-<br>
-<br>
-
 # 🫅 Support This Project
 
 Creating and maintaining this library is a labor of love, but it also requires significant time and effort.
@@ -64,6 +53,17 @@ Become a backer and help secure the future of this project:
 ### [🏆 Donate 🏆][sponsor]
 
 _Thank you for your incredible support!_
+
+<br>
+<br>
+
+# ❤️ Thank You
+
+A heartfelt thank you for choosing to include this library in your project. It's developers and creators like you, who
+care about user experience and elegant design, that make the open-source community so amazing. We're thrilled to be a
+small part of your work and can't wait to see what you build!
+
+Please don't hesitate to reach out. Happy coding!
 
 <br>
 <br>
