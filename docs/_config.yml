@@ -23,6 +23,8 @@ plugins:
   - jekyll-remote-theme
   - jekyll-gfm-admonitions
 
+markdown: GFM
+
 minima:
   skin: dark
   date_format: "%Y %m %d"
@@ -47,3 +49,4 @@ minima:
     - title: X
       icon: x-twitter
       url: "https://x.com/iamprogrammerlk"
+
