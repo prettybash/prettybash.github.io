@@ -21,6 +21,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
   - jekyll-remote-theme
+  - jekyll-gfm-admonitions
 
 minima:
   skin: dark
@@ -36,7 +37,7 @@ minima:
       url: "https://github.com/prettybash"
     - title: Reddit
       icon: reddit
-      url: "https://reddit.com/user/iamprogrammerlk"
+      url: "https://reddit.com/r/iamprogrammerlk"
     - title: YouTube
       icon: youtube
       url: "https://youtube.com/@iamprogrammerlk"
